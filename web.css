@@ -65,6 +65,7 @@ p
 .lien{
 
     color: rgb(201, 205, 212);
+    right:42%;
     position: absolute;
-    font-size: 50%; 
+    font-size: 90%; 
 }
