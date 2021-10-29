@@ -13,7 +13,7 @@
     font-size: 25px;
     font-family: Marker Felt;
     font-weight: 900;
-	text-align: center;
+    text-align: center;
     text-shadow: 1px 1px 2px grey;
 }
 .t4
@@ -22,7 +22,7 @@
     font-size: 25px;
     font-family: Marker Felt;
     font-weight: 900;
-	right 90%;
+    right 90%;
     text-shadow: 1px 1px 2px grey;
 }
 .t2
@@ -31,7 +31,7 @@
     font-size: 30px;
     font-family: Marker Felt;
     font-weight: 900;
-	text-align: center;
+    text-align: center;
     text-shadow: 1px 1px 2px grey;
 }
 p
@@ -84,8 +84,8 @@ p
 
     color: rgb(201, 205, 212);
     position: absolute;
+    right 47%;
     font-size: 120%; 
-	right 47%;
 }
 .t3
 {
@@ -93,6 +93,6 @@ p
     font-size: 25px;
     font-family: Marker Felt;
     font-weight: 900;
-	text-align: center;
+    text-align: center;
     text-shadow: 1px 1px 2px grey;
 }
